@@ -171,4 +171,4 @@ The goal is to move focus away from code and onto models using **MDA (Model-Driv
 
 **The Power of MDA:** You use **transformation rules** to automatically generate code from the higher-level models.
 
-![image.png](Fundamentals/image%206.png)
+![image.png](images/image 6.png)
