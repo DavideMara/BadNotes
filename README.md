@@ -5,6 +5,7 @@ A personal collection of university course notes, organized for clarity and easy
 ## Subjects
 
 - **Software Engineering** – Design patterns, architecture, best practices
+- **Data Structure** – Sorting, searching, complexity analysis, data structures
 
 ## Structure
 
