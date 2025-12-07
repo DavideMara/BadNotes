@@ -89,7 +89,7 @@ UML is the industry standard. It uses **Structure Diagrams** (static parts like 
 
 It includes **OCL (Object Constraint Language)** because graphical boxes and arrows sometimes aren’t enough, so you need formal logic constraints
 
-![image.png](Fundamentals/image%201.png)
+![image.png](<images/Fundamentals/image 1.png>)
 
 ---
 
@@ -106,7 +106,7 @@ It includes **OCL (Object Constraint Language)** because graphical boxes and arr
 
 A rigid, linear approach where each phase must finish before the next starts.
 
-![image.png](Fundamentals/image%202.png)
+![image.png](<images/Fundamentals/image 2.png>)
 
 - **Best for:** Systems where requirements are stable and well-understood
 - **Weakness:** Going back to change things is very expensive
@@ -115,7 +115,7 @@ A rigid, linear approach where each phase must finish before the next starts.
 
 Flexible. You define the core Requirements and Architecture upfront, but detail the rest in cycles (iterations)
 
-![image.png](Fundamentals/image%203.png)
+![image.png](<images/Fundamentals/image 3.png>)
 
 - **Best for**: Project needing prototypes (like UI heavy apps) or partial deployment
 
@@ -126,7 +126,7 @@ The primary focus here is **Risk Management**
 - **Process :** Before building, the team analyzes risks and proposes alternatives (like prototypes)
 - **The Loop**: Determine objectives -> Analyze Risk → Develop/Verify → Plan next phase
 
-![image.png](Fundamentals/image%204.png)
+![image.png](<images/Fundamentals/image 4.png>)
 
 ---
 
@@ -149,8 +149,7 @@ Scrum structures work into short cycles called **Sprints** (1-4 weeks).
 > - **Artifacts:** Product Backlog (wishlist), Sprint Backlog (current to-do list).
 > - **Ceremonies:** Sprint Planning, Daily Scrum (24h sync), Review, and Retrospective.
 
-![image.png](Fundamentals/image%205.png)
-
+![image.png](<images/Fundamentals/image 5.png>)
 ---
 
 # 6. Paradigms
@@ -171,4 +170,4 @@ The goal is to move focus away from code and onto models using **MDA (Model-Driv
 
 **The Power of MDA:** You use **transformation rules** to automatically generate code from the higher-level models.
 
-![image.png](images/image 6.png)
+![image.png](<images/Fundamentals/image 6.png>)
