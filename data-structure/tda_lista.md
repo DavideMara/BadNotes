@@ -188,7 +188,7 @@ The **Cursor Implementation** is a memory management technique, usually used in 
 
 -----
 
-## 3.12. Listas en “Java Collections Framework” 📦
+## 3.12. Listas en “Java Collections Framework” 
 
 The Java Collections Framework (JCF) provides robust, optimized implementations of the List ADT.
 
