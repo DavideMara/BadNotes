@@ -146,28 +146,7 @@ The primary focus here is **Risk Management**
 Scrum structures work into short cycles called **Sprints** (1-4 weeks).
 > 
 > - **Roles:** Product Owner (defines "what"), Scrum Master (manages process), Team (does the work).
-> - **Artifacts:** Product Backlog (wishlist), Sprint Backlog (current to-do list).
-> - **Ceremonies:** Sprint Planning, Daily Scrum (24h sync), Review, and Retrospective.
-
-![image.png](<images/Fundamentals/image 5.png>)
----
-
-# 6. Paradigms
-
-History shows a constant rise in the **level of abstraction**:
-
-- **1950s (Conventional):** Artisanal. No methodology. Focused on machine instructions. "Hero" developers.
-- **1960s-70s (Structured):** Introduced **modules**, control flow, and data structures.
-- **1980s (Object-Oriented):** Organized around **domain concepts** (objects). Introduced abstraction, information hiding, and reuse .
-
-### **Current Trend: Model-Driven Development (MDD)**
-
-The goal is to move focus away from code and onto models using **MDA (Model-Driven Architecture)**.
-
-1. **CIM (Computation Independent):** Business/Domain model.
-2. **PIM (Platform Independent):** Design model (no specific tech).
-3. **PSM (Platform Specific):** Implementation model.
-
+> - **Artifacts:** Product Backlog (wishlist), Sprint Backlog (current to-do
 **The Power of MDA:** You use **transformation rules** to automatically generate code from the higher-level models.
 
 ![image.png](<images/Fundamentals/image 6.png>)
